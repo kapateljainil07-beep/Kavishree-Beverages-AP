@@ -1,0 +1,7 @@
+{
+  "name": "Kavishree Beverage",
+  "description": "Enterprise beverage billing, 3-way payment (Cash, Online, UPI QR), Water Box and Soda inventory, real-time employee beverage usage, 7-day staff bills, WhatsApp bill sharing, One Access Operate Authorities, and Work Base scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
